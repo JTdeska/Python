@@ -1,1 +1,5 @@
 PyInputPlus
+requests
+matplotlib
+numpy
+pandas
